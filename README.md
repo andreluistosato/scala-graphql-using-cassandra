@@ -1,0 +1,1 @@
+Base reference: https://github.com/raymondtay/sangria-akka-http-cassandra
